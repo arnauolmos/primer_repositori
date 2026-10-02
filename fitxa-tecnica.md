@@ -25,6 +25,4 @@ Documentar el procés de creació d'un repositori local i la sincronització de 
 
 Per a més informació, consulta la [Documentació oficial de Markdown](https://www.markdownguide.org).
 
-## Comanda útil
-Per comprovar l'estat del repositori en qualsevol moment:
-```bash
+
