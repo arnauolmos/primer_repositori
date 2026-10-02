@@ -28,4 +28,3 @@ Per a més informació, consulta la [Documentació oficial de Markdown](https://
 ## Comanda útil
 Per comprovar l'estat del repositori en qualsevol moment:
 ```bash
-git status
