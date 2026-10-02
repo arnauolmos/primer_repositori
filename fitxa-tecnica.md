@@ -21,8 +21,3 @@ Documentar el procés de creació d'un repositori local i la sincronització de 
 | Visual Studio Code | Editor de codi principal |
 | Git | Sistema de control de versions |
 
-![Logo de Markdown](https://markdown-here.com/img/icon256.png)
-
-Per a més informació, consulta la [Documentació oficial de Markdown](https://www.markdownguide.org).
-
-
